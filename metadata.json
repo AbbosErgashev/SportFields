@@ -1,0 +1,7 @@
+{
+  "name": "Sport Fields Uzbekistan",
+  "description": "A comprehensive directory for booking sports venues across Uzbekistan, featuring advanced filtering, geolocation, and categorized listings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
